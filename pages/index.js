@@ -4,6 +4,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div>Hello NextJs 3</div>
+    <div>Hello NextJs 3 -exp</div>
   )
 }
